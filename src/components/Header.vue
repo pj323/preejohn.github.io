@@ -1,12 +1,12 @@
 <template>
     <div class="banner-text">
         <p>
-            <Prompt />(c) PREEJOHN. All rights reserved 2023.
+            <Prompt />(c) PREEJOHN. All rights reserved 2024.
         </p>
         <p class="m-30">
             <span><a href="https://github.com/pj323" target="_blank">Github</a></span> /
             <span><a href="https://www.linkedin.com/in/preetham-john/" target="_blank">LinkedIn</a></span> /
-            <span><a href="mailto:pravdev10@gmail.com">Email</a></span> /
+            <span><a href="mailto:preethamjohn77@gmail.com">Email</a></span> /
             <span><a href="https://github.com/pj323/pj323/blob/main/Preetham%20John%20Resume.pdf"
                     target="_blank">Resume</a></span>
         </p>

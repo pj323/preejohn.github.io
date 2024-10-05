@@ -12,7 +12,7 @@ export default {
             contactInfo: [
                 { contactName: "Github", contactLink: "https://github.com/pj323/" },
                 { contactName: "LinkedIn", contactLink: "https://www.linkedin.com/in/preetham-john/" },
-                { contactName: "Email", contactLink: "preethamjohn05@gmail.com" },
+                { contactName: "Email", contactLink: "preethamjohn77@gmail.com" },
                 { contactName: "Resume", contactLink: "https://github.com/pj323/pj323/blob/main/Preetham%20John%20Resume.pdf" },
             ],
         };
